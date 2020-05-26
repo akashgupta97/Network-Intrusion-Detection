@@ -1,6 +1,5 @@
-# ITKST42-network-data-classifier
+# IoT network intrusion detection
 
-## A network data classifier for UNSW-NB15 data set. This is an university course work for "ITKST42 Information Security Technology". 
 
 UNSW-NB15 is a network traffic data set with different categories for normal activities and synthetic attack behaviours.
 
